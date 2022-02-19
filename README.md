@@ -1,11 +1,11 @@
 ## Olá, eu sou a Nicoly Avelino
-🔭 Buscando uma oportunidade de emprego 
+🔭Ex- aluna do Instituto Proa
 
-🌱 Atualmente estou estudando Desenvolvimento Web/Java no instituto Proa
+🌱 Atualmente estou fazendo faculdade de Desenvolvimento de Software Multiplataforma na Fatec Diadema
 
 <div align="center">
   <a href="https://github.com/NicolyAvelino">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NicolyAvelino&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NicolyAvelino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolyAvelino&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
