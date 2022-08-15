@@ -43,8 +43,8 @@ Tenho como objetivo aprimorar cada vez mais meus conhecimentos e ingressar no me
 
  <div>
   <a href="https://github.com/NicolyAvelino">
-<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolyAvelino&theme=midnight-purple&hide_border=true"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolyAvelino&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolyAvelino&theme=midnight-purple&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolyAvelino&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=NicolyAvelino&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolyAvelino&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)-->
