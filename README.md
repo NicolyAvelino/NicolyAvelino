@@ -1,6 +1,6 @@
 # 💫 Olá, seja bem-vindo(a) ao meu perfil!
 Sou a Nicoly, tenho 20 anos. Atualmente estou cursando a faculdade na área de Desenvolvimento de Software Multiplataforma na Fatec Diadema.
-Estou fazendo estágio na área de Desenvolvimento Web na House Cricket e tenho como objetivo aprimorar cada vez mais meus conhecimentos para assim me tornar uma profissional mais capacitada.
+Estou fazendo estágio na área de Desenvolvimento Web na HouseCricket e tenho como objetivo aprimorar cada vez mais meus conhecimentos para assim me tornar uma profissional mais capacitada.
 
 
 ## 🌐 Redes Sociais:
