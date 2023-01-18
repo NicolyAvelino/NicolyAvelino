@@ -1,27 +1,6 @@
- <!--## Olá, eu sou a Nicoly Avelino
-🔭Ex- aluna do Instituto Proa;
-
-🌱 Atualmente estou fazendo faculdade de Desenvolvimento de Software Multiplataforma na Fatec Diadema.
-
-<div>
-  <a href="https://github.com/NicolyAvelino">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NicolyAvelino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolyAvelino&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-          
-          
-          
-</div>-->
 # 💫 Olá, seja bem-vindo(a) ao meu perfil!
-Sou a Nicoly, tenho 19 anos. Atualmente estou cursando a faculdade na área de Desenvolvimento de Software Multiplataforma na Fatec Diadema.
-Tenho como objetivo aprimorar cada vez mais meus conhecimentos e ingressar no mercado de trabalho na área de tecnologia.
+Sou a Nicoly, tenho 20 anos. Atualmente estou cursando a faculdade na área de Desenvolvimento de Software Multiplataforma na Fatec Diadema.
+Estou fazendo estágio na área de Desenvolvimento Web na House Cricket e tenho como objetivo aprimorar cada vez mais meus conhecimentos para assim me tornar uma profissional mais capacitada.
 
 
 ## 🌐 Redes Sociais:
@@ -46,6 +25,3 @@ Tenho como objetivo aprimorar cada vez mais meus conhecimentos e ingressar no me
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolyAvelino&theme=midnight-purple&hide_border=true"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolyAvelino&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=NicolyAvelino&theme=midnight-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolyAvelino&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)-->
-
